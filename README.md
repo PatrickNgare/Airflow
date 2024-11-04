@@ -28,4 +28,4 @@ The diagram below illustrates the architecture and flow of the data pipeline, in
 - **PostgreSQL Database Container**: Stores structured book data.
 - **Scheduler (e.g., Airflow)**: Manages and automates scraping intervals.
 
-To generate the diagram, I can create an illustrative image if you’d like. Just confirm any specifics you'd like shown!
+
