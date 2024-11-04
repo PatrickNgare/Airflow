@@ -19,7 +19,8 @@ This repository hosts a Dockerized data pipeline designed to automate the extrac
 
 ## Architecture Diagram
 
-![Data Pipeline Architecture](pipeline_design.png)
+![Data Pipeline Architecture](images/pipeline_design.png)
+
 
 The diagram below illustrates the architecture and flow of the data pipeline, including each component's role in the data extraction, storage, and scheduling process.
 
