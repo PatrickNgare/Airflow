@@ -1,7 +1,7 @@
  # ETL data pipeline using Apache Airflow. 
 
 This data pipeline is designed to automate the extraction and storage of data engineering books available on Amazon. It uses Docker to containerize the entire workflow, ensuring consistency and ease of deployment across different environments. The pipeline is scheduled to run at regular intervals, periodically pulling data directly from Amazon's website.
-To enhance the readability and usability of the README, you could add a diagram to visually represent the data pipeline. Here’s a suggested README description with an added image section:
+
 
 ---
 
